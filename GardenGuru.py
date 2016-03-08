@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-## Shell interface for the GardenGuru project.
+#Shell interface for the GardenGuru project.
 
 enable_camera = True
 sensor_env_pin = 4
